@@ -1,0 +1,8 @@
+.settings/
+.classpath
+.project
+.studio/
+flows/
+target/
+**/*.mflow
+catalog/**
